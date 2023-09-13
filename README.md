@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shubham Srivastava</h1>
 <h3 align="center">A passionate SDET from India</h3>
 
@@ -9,13 +7,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shubham03.srivastava](https://medium.com/@shubham03.srivastava)
 
-- 💬 Ask me about **Automation, Frmeworks , DSA**
+- 💬 Ask me about **Automation, Frameworks , DSA**
 
 - 📫 How to reach me **shubham03.srivastava@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OOOtCzA9H2VO5T5L52ckNdvjCiDJpLb9/view](https://drive.google.com/file/d/1OOOtCzA9H2VO5T5L52ckNdvjCiDJpLb9/view)
 
-- ⚡ Fun fact **I am Funny and witty when i feel comfortable**
+- ⚡ Fun fact **I am Funny and witty when I feel comfortable**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
