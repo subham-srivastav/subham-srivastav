@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/shubham03srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham03srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham03.srivastava/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham03.srivastava/?hl=en" height="30" width="40" /></a>
 <a href="https://medium.com/@shubham03.srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubham03.srivastava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5344x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5344x" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/2214user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5344x" height="30" width="40" /></a>
 <a href="https://discord.gg/shubhamsrivastava." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhamsrivastava." height="30" width="40" /></a>
 </p>
 
